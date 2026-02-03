@@ -135,8 +135,8 @@ const Home: React.FC = () => {
           <div className="relative mb-12">
             <div className="absolute -inset-8 bg-brand-blue/10 rounded-full blur-3xl opacity-40"></div>
             <div className="relative w-52 h-52 md:w-72 md:h-72 rounded-full border-[10px] border-slate-50 shadow-[0_30px_60px_-15px_rgba(0,0,0,0.3)] overflow-hidden ring-4 ring-brand-blue/10 group">
-            <img 
-  src="/founder.jpeg"
+              <img 
+                src="founder.jpeg" 
                 className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700 hover:scale-105" 
                 alt="SORO FETEGUE DAVID" 
               />
